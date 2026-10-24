@@ -1,0 +1,12 @@
+
+# Sample Company Data Policy
+
+Customer data must only be accessed for legitimate business purposes.
+Employees must not disclose customer personal information to unauthorized
+individuals.
+
+Customers can request information about how their data is used by contacting
+the support team.
+
+Customer data must be handled according to the organization's approved
+security and retention policies.
